@@ -1,2 +1,2 @@
 # ImageMapping
-image mapping
+Image mapping
